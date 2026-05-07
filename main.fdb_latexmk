@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1778188320.47888 "main.bcf" "main.bbl" "main" 1778192525.69328 0
+["biber main"] 1778188320.47888 "main.bcf" "main.bbl" "main" 1778195510.80976 0
   "lit.bib" 1778190099 1691 a92cdfdcc79629238945875cbe7e950e ""
-  "main.bcf" 1778192525 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
+  "main.bcf" 1778195510 108789 f61759a49a0e2a5feba953731e5eda1c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1778192518.58325 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778192525.69394 0
+["pdflatex"] 1778195503.92114 "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" "main.pdf" "main" 1778195510.81027 2
   "Bilder/Tetrathionat.jpg" 1778182111 192237 517edbbaf76dabc75dae2a3d27a15e5b ""
   "Bilder/Thiosulfat.jpg" 1778182111 153757 af8a666dd9f3ec1defaa6f179272ca6b ""
   "C:/Users/20Vic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1778183608 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -293,12 +293,12 @@
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/20Vic/AppData/Local/Programs/MiKTeX/tex/latex/xfrac/xfrac.sty" 1718270407 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "Pre.sty" 1778182111 2387 dae4282edc8cf6a3954e7df7daaf37d5 ""
-  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778192518 24740 d811d96ec755926f016c1374e7e1806f ""
-  "main.aux" 1778192525 15113 f29ad21528923b3c633326a7bc630eef "pdflatex"
+  "c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex" 1778195496 24768 a1af021662801bf0a5cb27b7a6a18215 ""
+  "main.aux" 1778195510 14983 3392690bdcfcf2b7605570a729116a2f "pdflatex"
   "main.bbl" 1778188321 5423 58054cb75f3eb6285bcaf38fe206c5c5 "biber main"
-  "main.run.xml" 1778192525 2437 61fdf34efb63a0ae0fceadc91914708a "pdflatex"
-  "main.tex" 1778192518 24740 d811d96ec755926f016c1374e7e1806f ""
-  "main.toc" 1778192525 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
+  "main.run.xml" 1778195510 2437 3024650141046996d9400f20755befb0 "pdflatex"
+  "main.tex" 1778195496 24768 a1af021662801bf0a5cb27b7a6a18215 ""
+  "main.toc" 1778195510 2598 538baf51f2328c36572490a01ce6aba8 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.7)  8 MAY 2026 00:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.5.7)  8 MAY 2026 01:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1267,10 +1267,7 @@ Package chemmacros Info: Using float defining method `float'.
 
 \@float@every@scheme=\toks43
 \c@scheme=\count528
-(main.aux
-Package babel Info: 'ngerman' activates 'german' shorthands.
-(babel)             Reported on input line 14.
-)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1291,7 +1288,9 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
- (C:\Users\20Vic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+Package babel Info: 'ngerman' activates 'german' shorthands.
+(babel)             Reported on input line 5.
+(C:\Users\20Vic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count529
 \scratchdimen=\dimen391
@@ -1384,15 +1383,31 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
  (C:\Users\20Vic\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+c:/Users/20Vic/Downloads/Protokoll_Versuch_7_ROR/main.tex:29: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.29 Matrikelnummer 2: &
+                         3841428\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+
+Overfull \hbox (29.50098pt too wide) in paragraph at lines 24--33
+[]| []
+ []
+
+[1
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{C:/Users/20Vic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
+{C:/Users/20Vic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+No file main.toc.
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [1]
+[1]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1413,75 +1428,80 @@ Underfull \hbox (badness 2856) in paragraph at lines 170--172
  []
 
 [5]
-Overfull \hbox (9.49762pt too wide) detected at line 208
+Overfull \hbox (9.49762pt too wide) detected at line 206
 []
  []
 
 [6]
-Underfull \hbox (badness 1655) in paragraph at lines 241--246
+Underfull \hbox (badness 1655) in paragraph at lines 239--244
 \T1/cmr/m/n/12 et-was Na-tri-um-hy-droxid ver-setzt und es wur-de et-was Mangansulfat-Lösung
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 241--246
+Underfull \hbox (badness 1596) in paragraph at lines 239--244
 \T1/cmr/m/n/12 Im vier-ten Ver-such wur-de ei-ne ver-dünn-te Kaliumpermanganat-Lösung mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--246
+Underfull \hbox (badness 10000) in paragraph at lines 239--244
 
  []
 
 [7]
-Underfull \hbox (badness 2547) in paragraph at lines 258--259
+Underfull \hbox (badness 2547) in paragraph at lines 256--257
 \T1/cmr/m/n/12 aus dem Ka-li-um-per-man-ga-nat wer-den zu Mangan(IV)-Ionen oxi-diert bzw.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
 
-Overfull \hbox (15.0067pt too wide) detected at line 263
+Overfull \hbox (15.0067pt too wide) detected at line 261
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
 [8]
-Overfull \hbox (41.45343pt too wide) detected at line 284
+Overfull \hbox (41.45343pt too wide) detected at line 282
 []
  []
 
 [9]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 299.
+(hyperref)                removing `math shift' on input line 297.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 299.
+(hyperref)                removing `superscript' on input line 297.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 299.
+(hyperref)                removing `math shift' on input line 297.
 
 [10]
-<Bilder/Thiosulfat.jpg, id=157, 1820.8025pt x 1367.1075pt>
+<Bilder/Thiosulfat.jpg, id=124, 1820.8025pt x 1367.1075pt>
 File: Bilder/Thiosulfat.jpg Graphic file (type jpg)
 <use Bilder/Thiosulfat.jpg>
-Package pdftex.def Info: Bilder/Thiosulfat.jpg  used on input line 333.
+Package pdftex.def Info: Bilder/Thiosulfat.jpg  used on input line 331.
 (pdftex.def)             Requested size: 200.76pt x 150.71605pt.
-<Bilder/Tetrathionat.jpg, id=158, 1821.80624pt x 1391.1975pt>
+<Bilder/Tetrathionat.jpg, id=125, 1821.80624pt x 1391.1975pt>
 File: Bilder/Tetrathionat.jpg Graphic file (type jpg)
 <use Bilder/Tetrathionat.jpg>
-Package pdftex.def Info: Bilder/Tetrathionat.jpg  used on input line 339.
+Package pdftex.def Info: Bilder/Tetrathionat.jpg  used on input line 337.
 (pdftex.def)             Requested size: 200.76pt x 153.28693pt.
  [11 <./Bilder/Thiosulfat.jpg> <./Bilder/Tetrathionat.jpg>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
@@ -1491,13 +1511,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
-
- []
-
 [13]
-Underfull \hbox (badness 2913) in paragraph at lines 396--396
+Underfull \hbox (badness 2913) in paragraph at lines 394--394
 []\T1/cmr/m/n/12 Wired Che-mist - Stan-dard Elek-tro-de Pot-ne-ti-als, []$\T1/cmtt/m/n/12 https : / / www .
  []
 
@@ -1506,22 +1521,34 @@ Underfull \hbox (badness 2913) in paragraph at lines 396--396
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-03-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46810 strings out of 467691
- 1021049 string characters out of 5414988
- 2034626 words of memory out of 5000000
- 75158 multiletter control sequences out of 15000+600000
- 662715 words of font info for 130 fonts, out of 8000000 for 9000
+ 46798 strings out of 467691
+ 1020755 string characters out of 5414988
+ 2034022 words of memory out of 5000000
+ 75151 multiletter control sequences out of 15000+600000
+ 661165 words of font info for 128 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  118i,17n,132p,11299b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx0800.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (16 pages, 637152 bytes).
+ <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1440.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk> <C:\Users\20Vic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/20Vic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (16 pages, 625367 bytes).
 PDF statistics:
- 724 PDF objects out of 1000 (max. 8388607)
+ 676 PDF objects out of 1000 (max. 8388607)
  66 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
