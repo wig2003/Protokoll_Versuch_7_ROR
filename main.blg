@@ -1,0 +1,19 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[64] biber-MSWIN64:342> INFO - === 
+[85] Biber.pm:421> INFO - Reading 'main.bcf'
+[147] Biber.pm:1002> INFO - Found 5 citekeys in bib section 0
+[155] Biber.pm:4487> INFO - Processing section 0
+[162] Biber.pm:4678> INFO - Looking for bibtex file 'lit.bib' for section 0
+[187] bibtex.pm:1713> INFO - LaTeX decoding ...
+[194] bibtex.pm:1519> INFO - Found BibTeX data source 'lit.bib'
+[223] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[223] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[223] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[223] Biber.pm:4313> INFO - No sort tailoring available for locale 'de-DE'
+[228] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[229] bbl.pm:779> INFO - Output to main.bbl
+[229] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[229] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[229] Biber.pm:132> WARN - Duplicate entry key: '•' in file 'lit.bib', skipping ...
+[229] Biber.pm:134> INFO - WARNINGS: 3
